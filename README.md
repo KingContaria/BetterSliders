@@ -1,0 +1,1 @@
+Decreases lag when changing slider settings in the Video Settings Tab by applying the values after closing the Menu instead of while using the slider.
